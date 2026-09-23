@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5567f1380f4471ee3b4d0c1a",
+  "owner": "jxedmwqn",
+  "repo": "page-f3d7c596f089c5740f3cd675",
+  "title": "小青蛙",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "f3d7c596f089c5740f3cd675",
+      "a": "小青蛙",
+      "b": "稳定全球clash加速器",
+      "entity": "小青蛙",
+      "brand": "小青蛙",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "06cf4babecf7259935fdde77b529a8db23d325d1b8303ecbd3e89c53650d4ba5",
+      "content": {
+        "primary_entity": "小青蛙",
+        "keyword1": "小青蛙",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，小青蛙提供多档订阅方案，从每月100GB到1000GB流量，支持3至20台设备同时在线。旗舰版配备IPLC专线并针对游戏场景优化延迟，团队版提供VIP高带宽节点与定制路由选项。客户端覆盖主流系统，按设备挑选对应客户端导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "小青蛙，让连接更稳定",
+          "AI_HERO_INTRO": "小青蛙是一款面向需要稳定跨国连接用户的Clash加速服务，提供基础版、旗舰版和团队版三档订阅。流量从100GB到1000GB，设备数量支持3至20台，适合个人、家庭及团队按需选择。",
+          "AI_VISUAL_TITLE": "小青蛙加速订阅",
+          "AI_HIGHLIGHT_1": "每月100GB起，适配个人日常",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC游戏专线优化",
+          "AI_HIGHLIGHT_3": "年付立省两月，套餐灵活升级",
+          "AI_FEATURES_TITLE": "套餐选择与设备适配",
+          "AI_FEATURES_INTRO": "根据设备数量与月度流量需求，匹配对应档位的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按设备数量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，方便多设备用户选择。",
+          "AI_FEATURE_TITLE_2": "按流量与场景挑线路",
+          "AI_FEATURE_TEXT_2": "100GB适合轻量浏览，300GB满足流媒体与游戏，1000GB适合团队高带宽使用。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "月付与年付可选，年付仅需150元、350元、850元，比月付节省两个月费用。",
+          "AI_CLIENTS_TITLE": "选择适配的客户端",
+          "AI_CLIENTS_INTRO": "在手机、电脑或路由器上安装对应客户端，导入订阅后即可连接节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元每月含100GB与3台设备；旗舰版35元每月含300GB、5台设备及IPLC专线；团队版85元每月含1000GB与20台设备。年付分别150元、350元、850元。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "先确定流量和设备需求，再确认系统适配信息，最后参考客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "对比基础版、旗舰版与团队版的流量、设备数和线路特性，选定适合的套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备的操作系统与客户端软件要求，准备安装。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档，将订阅地址导入并同步节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "稳定连接，从选对套餐开始",
+          "AI_CLOSING_TEXT": "根据每月流量和设备数量挑选合适的方案，导入订阅即可使用小青蛙。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按年付分别约 ¥150、¥350、¥850。",
+          "AI_FAQ_ANSWER_2": "基础版和旗舰版适合个人与家庭使用；团队版支持 20 台设备和定制路由，适合小团队协作。若仅日常浏览和流媒体，基础版即可满足。",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用建议直接选年付方案。",
+          "AI_FAQ_ANSWER_4": "订阅导入后在客户端内更新节点即可切换线路。旗舰版含 IPLC 专线，游戏加速可优先选择该线路组，具体以客户端显示为准。",
+          "AI_FAQ_ANSWER_5": "套餐流量按自然月重置，超出后当月限速。需要更大流量可升级至旗舰版或团队版，升级后流量额度立即生效。",
+          "AI_FAQ_QUESTION_1": "小青蛙三档套餐的流量和设备数量分别是多少？",
+          "AI_FAQ_QUESTION_2": "基础版和团队版分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_3": "月付和年付在价格上有什么区别？",
+          "AI_FAQ_QUESTION_4": "导入订阅后如何选择游戏加速线路？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--v2ray-dq8ov59c.com",
+    "host": "xn--v2ray-dq8ov59c.com"
+  },
+  "file_hashes": {
+    "index.html": "9dd7f22d4b7683126e49d04f90c910a66561380d962f24c3076c671d8130821c",
+    "sitemap.xml": "885f296ae6cf852727d6b6f70a6790604d940ea4a90e63e75f4b30f32bb936cf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e006b2636cbc49124879e17e21d0873a2a17306c2a24fc7fd3ebdc8923036c1c",
+    "robots.txt": "0747b9de5690ec601242823a344d8a4d29a9b8f362705b3b7d640373d5560821",
+    "52cb0b1c52ee19b50afd3143bb955448.txt": "3ec219a98d5a16b556e978518e7dcd41f50305dbc51a44c5704678f59460b42c"
+  },
+  "revision": "8044a6f8fae671d50b200cbc0e745e1c46072dfb3e6c4bc4d186ebaa806526b1"
+}
